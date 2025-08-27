@@ -52,7 +52,7 @@ This analyzes your codebase and generates project-specific context files in `.cl
 Add to your `AGENTS.md` / `CLAUDE.md`:
 
 ```markdown
-## AgentCheck — Code Review (pre‑commit)
+## AgentCheck — Local AI Code Review
 
 Before committing ask Claude Code to "Run AgentCheck analysis"
 
@@ -69,6 +69,15 @@ style-compliance, product-reviewer) analyze **staged changes** and write reports
 * **Prioritized findings**: 🔴 Critical · 🟠 High · 🟡 Medium · 🔵 Low
 * **Concrete fixes**: suggestions you can apply immediately
 * **Project‑specific context**: agents learn from your docs and past decisions
+
+### AgentCheck in Action
+
+**All agents running in parallel:**
+<img width="553" height="306" alt="482244166-603ab9c5-eb9c-49cd-af3c-06b3d300eb5b" src="https://github.com/user-attachments/assets/83caf100-f3e4-4694-845c-3721fbea9981" />
+
+**Comprehensive analysis results:**
+<img width="1183" height="292" alt="482268710-3087fa79-e57b-46d6-89c7-9093e2b73ab6" src="https://github.com/user-attachments/assets/461c981f-8bec-4b1f-b8cb-2977369a405d" />
+
 
 ---
 
