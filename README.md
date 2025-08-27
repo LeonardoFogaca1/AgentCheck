@@ -1,6 +1,6 @@
 # AgentCheck
 
-**Local AI code review agents for Claude Code**
+**Local AI-powered code review agents for Claude Code**
 
 Run specialized agents against your **staged changes** before you commit. AgentCheck utilizes your real project context (docs, architecture, and conventions) and local development ecosystem (connected MCP tools and resources) to deliver tight, actionable feedback.
 
