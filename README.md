@@ -34,7 +34,7 @@ This adds:
 ```
 .claude/
   agentcheck/     # context and outputs
-  agents/         # the review agents (prompts + logic)
+  agents/         # the review agents 
 ```
 
 ### 2) Initialize project context
