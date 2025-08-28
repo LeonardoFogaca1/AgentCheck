@@ -2,7 +2,7 @@
 
 **Local AI-powered code review agents for Claude Code**
 
-I believe code reviews should be faster and more efficient, focused on trade-offs, knowledge sharing and accountability, not on policing style, naming quirks, or catching trivial regressions and security issues.
+We believe code reviews should be faster and more efficient, focused on trade-offs, knowledge sharing and accountability, not on policing style, naming quirks, or catching trivial regressions and security issues.
 
 Use AgentCheck to run specialized agents before you commit, directly in your dev flow. AgentCheck pulls in your real project context (docs, conventions, architecture) and local ecosystem (MCP tools, resources) to deliver focused, actionable feedback.
 
