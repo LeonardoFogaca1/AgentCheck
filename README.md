@@ -8,11 +8,11 @@ Use AgentCheck to run specialized agents before you commit, directly in your dev
 
 ### Highlights
 
-✅ **Local review** — catch issues while you’re coding, not after PRs
-🧠 **Project-aware** — understands your docs, conventions, and methodology
-🔧 **Open source & customizable** — adapt each agent to your stack and standards
-🖥️ **Integrated flow** — runs inside your environment, no black-box platforms
-💸 **Free to use** — no seat licenses, no subscription fees
+- ✅ **Local review** — catch issues while you’re coding, not after PRs
+- 🧠 **Project-aware** — understands your docs, conventions, and methodology
+- 🔧 **Open source & customizable** — adapt each agent to your stack and standards
+- 🖥️ **Integrated flow** — runs inside your environment, no black-box platforms
+- 💸 **Free to use** — no seat licenses, no subscription fees
 
 ---
 
