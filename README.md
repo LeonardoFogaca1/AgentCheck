@@ -2,17 +2,16 @@
 
 **Local AI-powered code review agents for Claude Code**
 
-Run specialized agents against your **staged changes** before you commit. AgentCheck utilizes your real project context (docs, architecture, and conventions) and local development ecosystem (connected MCP tools and resources) to deliver tight, actionable feedback.
+I believe code reviews should be faster and more efficient, focused on trade-offs, knowledge sharing and accountability, not on policing style, naming quirks, or catching trivial regressions and security issues.
+Use AgentCheck to run specialized agents before you commit, directly in your dev flow. AgentCheck pulls in your real project context (docs, conventions, architecture) and local ecosystem (MCP tools, resources) to deliver focused, actionable feedback.
 
----
+### Highlights
 
-## Highlights
-
-- ✅ **Local code review** — catch issues during development, not in post‑PR reviews  
-- 🧠 **Full codebase context** — uses your docs, ADRs, and team methodology  
-- 🔧 **Open source & customizable** — tune each agent to your stack and standards  
-- 🖥️ **Local flow** — runs where you code; how you code; no separate review platform
-- 💸 **No subscription fees**
+✅ **Local review** — catch issues while you’re coding, not after PRs
+🧠 **Project-aware** — understands your docs, conventions, and methodology
+🔧 **Open source & customizable** — adapt each agent to your stack and standards
+🖥️ **Integrated flow** — runs inside your environment, no black-box platforms
+💸 **Free to use** — no seat licenses, no subscription fees
 
 ---
 
@@ -127,8 +126,11 @@ AgentCheck is designed to **get quieter and smarter** over time.
 
 ## FAQ
 
+**How is this different from PR bots (e.g. Cursor Bugbot)?**
+PR bots only run after code is pushed, so feedback arrives late, outside the developer’s flow. They’re closed systems, often noisy with trivial comments, and charge per seat. They try to solve problems too late, in the wrong place, and without your developer environment tools.
+
 **Does it block commits?**
-AgentCheck itself doesn’t block anything; you choose to run it before committing.
+No. AgentCheck doesn’t block anything by default; you choose when to run it before committing.
 
 ---
 
